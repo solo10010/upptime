@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: hoster
     url: https://hoster.kz
+    
+  - name: ВкитаеКЗ
+    url: https://vkitae.kz/
 
 
 status-website:
