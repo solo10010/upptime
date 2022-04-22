@@ -22,19 +22,19 @@
     "url": "https://vkitae.kz/",
     "icon": "https://favicons.githubusercontent.com/vkitae.kz",
     "slug": "vkitae-kz",
-    "status": "down",
-    "uptime": "20.87%",
-    "uptimeDay": "20.87%",
-    "uptimeWeek": "20.87%",
-    "uptimeMonth": "20.87%",
-    "uptimeYear": "20.87%",
-    "time": 1645,
-    "timeDay": 1645,
-    "timeWeek": 1645,
-    "timeMonth": 1645,
-    "timeYear": 1645,
+    "status": "up",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
+    "time": 1985,
+    "timeDay": 1985,
+    "timeWeek": 1985,
+    "timeMonth": 1985,
+    "timeYear": 1985,
     "dailyMinutesDown": {
-      "2022-04-22": 0
+      "2022-04-22": 18
     }
   }
 ]
