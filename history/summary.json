@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2169,
-    "timeDay": 955,
-    "timeWeek": 1419,
-    "timeMonth": 2169,
-    "timeYear": 2169,
+    "time": 2088,
+    "timeDay": 778,
+    "timeWeek": 1311,
+    "timeMonth": 2088,
+    "timeYear": 2088,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/vkitae.kz",
     "slug": "vkitae-kz",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 2195,
-    "timeDay": 2659,
-    "timeWeek": 2244,
-    "timeMonth": 2195,
-    "timeYear": 2195,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2197,
+    "timeDay": 2227,
+    "timeWeek": 2233,
+    "timeMonth": 2197,
+    "timeYear": 2197,
     "dailyMinutesDown": {
       "2022-04-22": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1872,
-    "timeDay": 1872,
-    "timeWeek": 1874,
-    "timeMonth": 1872,
-    "timeYear": 1872,
+    "time": 1887,
+    "timeDay": 2033,
+    "timeWeek": 1906,
+    "timeMonth": 1887,
+    "timeYear": 1887,
     "dailyMinutesDown": {}
   }
 ]
