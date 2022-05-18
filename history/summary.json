@@ -42,7 +42,7 @@
     "url": "https://hijama.kz/",
     "icon": "https://favicons.githubusercontent.com/hijama.kz",
     "slug": "hijama-kz-2192552",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
@@ -54,6 +54,7 @@
     "timeMonth": 1966,
     "timeYear": 1966,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2022-05-13": 25,
       "2022-05-05": 16
     }
