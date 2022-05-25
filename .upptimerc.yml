@@ -11,6 +11,9 @@ sites:
   
   - name: hijama.kz_2192552
     url: https://hijama.kz/
+    
+  - name: hijama.kz_2192552
+    url: https://abrcloud.amphibia.kz/
 
 
 status-website:
