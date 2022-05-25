@@ -48,12 +48,12 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.63%",
     "time": 1941,
     "timeDay": 2117,
-    "timeWeek": 1889,
+    "timeWeek": 1916,
     "timeMonth": 1950,
     "timeYear": 1941,
     "dailyMinutesDown": {
@@ -70,17 +70,19 @@
     "url": "https://abrcloud.amphibia.kz/",
     "icon": "https://favicons.githubusercontent.com/abrcloud.amphibia.kz",
     "slug": "abrcloud-amphibia-kz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1201,
     "timeDay": 1201,
     "timeWeek": 1201,
     "timeMonth": 1201,
     "timeYear": 1201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   }
 ]
