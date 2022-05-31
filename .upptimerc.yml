@@ -15,7 +15,7 @@ sites:
   - name: abrcloud.amphibia.kz
     url: https://abrcloud.amphibia.kz/
     
-   - name: eler-plast.kz
+  - name: eler-plast.kz
     url: https://eler-plast.kz/
 
 
