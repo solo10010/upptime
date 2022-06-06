@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1502,
-    "timeDay": 1738,
-    "timeWeek": 1167,
+    "time": 1508,
+    "timeDay": 1808,
+    "timeWeek": 1207,
     "timeMonth": 1219,
-    "timeYear": 1502,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2022-05-23": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
-    "time": 2655,
-    "timeDay": 2668,
-    "timeWeek": 4161,
-    "timeMonth": 2837,
-    "timeYear": 2655,
+    "time": 2652,
+    "timeDay": 2452,
+    "timeWeek": 4203,
+    "timeMonth": 2841,
+    "timeYear": 2652,
     "dailyMinutesDown": {
       "2022-05-21": 22,
       "2022-04-22": 18
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.64%",
-    "time": 2294,
-    "timeDay": 8122,
-    "timeWeek": 3050,
-    "timeMonth": 2416,
-    "timeYear": 2294,
+    "time": 2368,
+    "timeDay": 6615,
+    "timeWeek": 3616,
+    "timeMonth": 2521,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2022-05-31": 28,
       "2022-05-26": 23,
@@ -73,16 +73,16 @@
     "icon": "https://favicons.githubusercontent.com/abrcloud.amphibia.kz",
     "slug": "abrcloud-amphibia-kz",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1862,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1870,
     "timeDay": 1988,
-    "timeWeek": 1873,
-    "timeMonth": 1862,
-    "timeYear": 1862,
+    "timeWeek": 1911,
+    "timeMonth": 1870,
+    "timeYear": 1870,
     "dailyMinutesDown": {
       "2022-05-25": 20
     }
@@ -93,18 +93,16 @@
     "icon": "https://favicons.githubusercontent.com/eler-plast.kz",
     "slug": "eler-plast-kz",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 3282,
-    "timeDay": 2701,
-    "timeWeek": 3282,
-    "timeMonth": 3282,
-    "timeYear": 3282,
-    "dailyMinutesDown": {
-      "2022-06-05": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3410,
+    "timeDay": 2881,
+    "timeWeek": 3410,
+    "timeMonth": 3410,
+    "timeYear": 3410,
+    "dailyMinutesDown": {}
   }
 ]
