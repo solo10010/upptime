@@ -99,9 +99,9 @@
     "url": "https://eler-plast.kz/",
     "icon": "https://favicons.githubusercontent.com/eler-plast.kz",
     "slug": "eler-plast-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -111,6 +111,7 @@
     "timeMonth": 4130,
     "timeYear": 4130,
     "dailyMinutesDown": {
+      "2022-06-28": 0,
       "2022-06-20": 16,
       "2022-06-15": 23
     }
