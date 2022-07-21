@@ -17,6 +17,9 @@ sites:
     
   - name: eler-plast.kz
     url: https://eler-plast.kz/
+    
+  - name: petsmart.kz
+    url: https://petsmart.kz/
 
 
 status-website:
