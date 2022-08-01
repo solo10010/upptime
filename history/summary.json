@@ -87,7 +87,7 @@
     "uptimeYear": "99.59%",
     "time": 1893,
     "timeDay": 3509,
-    "timeWeek": 1652,
+    "timeWeek": 1823,
     "timeMonth": 1811,
     "timeYear": 1893,
     "dailyMinutesDown": {
@@ -105,14 +105,14 @@
     "icon": "https://favicons.githubusercontent.com/eler-plast.kz",
     "slug": "eler-plast-kz",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.42%",
+    "uptimeWeek": "94.75%",
     "uptimeMonth": "94.26%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.51%",
     "time": 5347,
     "timeDay": 7721,
-    "timeWeek": 4581,
+    "timeWeek": 4642,
     "timeMonth": 5672,
     "timeYear": 5347,
     "dailyMinutesDown": {
@@ -137,9 +137,9 @@
     "url": "https://petsmart.kz/",
     "icon": "https://favicons.githubusercontent.com/petsmart.kz",
     "slug": "petsmart-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -149,6 +149,7 @@
     "timeMonth": 6049,
     "timeYear": 6049,
     "dailyMinutesDown": {
+      "2022-08-01": 0,
       "2022-07-21": 27
     }
   }
