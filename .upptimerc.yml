@@ -20,6 +20,9 @@ sites:
     
   - name: petsmart.kz
     url: https://petsmart.kz/
+    
+  - name: mechta.kz
+    url: www.mechta.kz
 
 
 status-website:
