@@ -8,15 +8,6 @@ sites:
     
   - name: vkitae.kz
     url: https://vkitae.kz/
-  
-  - name: hijama.kz_2192552
-    url: https://hijama.kz/
-    
-  - name: abrcloud.amphibia.kz
-    url: https://abrcloud.amphibia.kz/
-    
-  - name: eler-plast.kz
-    url: https://eler-plast.kz/
     
   - name: petsmart.kz
     url: https://petsmart.kz/
