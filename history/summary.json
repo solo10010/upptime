@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/vkitae.kz",
     "slug": "vkitae-kz",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.71%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 2813,
     "timeDay": 2141,
-    "timeWeek": 2247,
+    "timeWeek": 2268,
     "timeMonth": 3688,
     "timeYear": 2813,
     "dailyMinutesDown": {
@@ -52,11 +52,11 @@
     "icon": "https://favicons.githubusercontent.com/petsmart.kz",
     "slug": "petsmart-kz",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "96.76%",
     "time": 4461,
     "timeDay": 3169,
     "timeWeek": 3108,
@@ -75,9 +75,9 @@
     "url": "www.mechta.kz",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mechta-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,6 +86,8 @@
     "timeWeek": 1816,
     "timeMonth": 1820,
     "timeYear": 1820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-15": 0
+    }
   }
 ]
