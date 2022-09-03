@@ -14,6 +14,9 @@ sites:
     
   - name: mechta.kz
     url: www.mechta.kz
+    
+  - name: svet.kz
+    url: https://svet.kz/
 
 
 status-website:
