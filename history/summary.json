@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/vkitae.kz",
     "slug": "vkitae-kz",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 2846,
     "timeDay": 3037,
     "timeWeek": 2708,
@@ -97,17 +97,19 @@
     "url": "https://svet.kz/",
     "icon": "https://favicons.githubusercontent.com/svet.kz",
     "slug": "svet-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2697,
-    "timeDay": 2078,
-    "timeWeek": 2165,
-    "timeMonth": 2697,
-    "timeYear": 2697,
-    "dailyMinutesDown": {}
+    "time": 2641,
+    "timeDay": 1660,
+    "timeWeek": 2050,
+    "timeMonth": 2641,
+    "timeYear": 2641,
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   }
 ]
