@@ -17,6 +17,9 @@ sites:
     
   - name: svet.kz
     url: https://svet.kz/
+    
+  - name: agropump.com
+    url: https://agropump.com/
 
 
 status-website:
