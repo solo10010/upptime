@@ -22,7 +22,13 @@ sites:
     url: https://agropump.com/
   
   - name: zakazbiletov.kz
-    url: zakazbiletov.kz
+    url: https://zakazbiletov.kz/
+    
+  - name: mirror.hoster.kz
+    url: https://mirror.hoster.kz/
+    
+  - name: orda.kz
+    url: https://orda.kz/
     
 
 status-website:
