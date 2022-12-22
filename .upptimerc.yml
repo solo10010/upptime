@@ -20,7 +20,10 @@ sites:
     
   - name: agropump.com
     url: https://agropump.com/
-
+  
+  - name: zakazbiletov.kz
+    url: zakazbiletov.kz
+    
 
 status-website:
   theme: night
