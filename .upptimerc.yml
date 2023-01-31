@@ -38,7 +38,10 @@ sites:
     check: "tcp-ping"
     url: 185.121.82.156
     
-    
+  - name: dd
+    check: "tcp-ping"
+    url: 89.46.34.43
+    port: 9000
 
 status-website:
   theme: night
