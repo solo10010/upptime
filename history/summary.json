@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "73.49%",
+    "uptime": "73.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.85%",
+    "uptimeWeek": "73.19%",
     "uptimeMonth": "80.22%",
-    "uptimeYear": "73.49%",
+    "uptimeYear": "73.51%",
     "time": 1072,
     "timeDay": 1111,
     "timeWeek": 1202,
@@ -265,19 +265,19 @@
     "url": "185.121.81.43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-24871-kz",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "90.99%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "90.99%",
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 34
     }
   },
   {
@@ -286,18 +286,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mb-29-hoster-kz",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 328
+      "2023-01-31": 363
     }
   },
   {
@@ -306,18 +306,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddd",
     "status": "down",
-    "uptime": "7.65%",
-    "uptimeDay": "7.65%",
-    "uptimeWeek": "7.65%",
-    "uptimeMonth": "7.65%",
-    "uptimeYear": "7.65%",
+    "uptime": "6.76%",
+    "uptimeDay": "6.76%",
+    "uptimeWeek": "6.76%",
+    "uptimeMonth": "6.76%",
+    "uptimeYear": "6.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 239
+      "2023-01-31": 273
     }
   }
 ]
