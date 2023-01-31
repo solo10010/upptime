@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agropump.com.ico",
     "slug": "agropump-com",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "95.44%",
+    "uptimeYear": "95.45%",
     "time": 2201,
     "timeDay": 2718,
     "timeWeek": 2147,
@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "73.71%",
+    "uptime": "73.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.68%",
+    "uptimeWeek": "78.65%",
     "uptimeMonth": "80.22%",
-    "uptimeYear": "73.71%",
+    "uptimeYear": "73.76%",
     "time": 1072,
     "timeDay": 1111,
     "timeWeek": 1202,
@@ -265,19 +265,19 @@
     "url": "185.121.81.43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-24871-kz",
-    "status": "up",
-    "uptime": "94.35%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "94.35%",
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
     "time": 211,
     "timeDay": 211,
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-01-31": 47
+      "2023-01-31": 34
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 816
+      "2023-01-31": 914
     }
   },
   {
@@ -306,18 +306,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddd",
     "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
+    "uptime": "2.35%",
+    "uptimeDay": "2.35%",
+    "uptimeWeek": "2.35%",
+    "uptimeMonth": "2.35%",
+    "uptimeYear": "2.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 726
+      "2023-01-31": 824
     }
   }
 ]
