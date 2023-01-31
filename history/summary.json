@@ -71,19 +71,19 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.18%",
-    "time": 3391,
-    "timeDay": 2176,
-    "timeWeek": 1981,
-    "timeMonth": 2130,
-    "timeYear": 3391,
+    "time": 3388,
+    "timeDay": 2241,
+    "timeWeek": 2023,
+    "timeMonth": 2140,
+    "timeYear": 3388,
     "dailyMinutesDown": {
-      "2023-01-31": 0,
+      "2023-01-31": 9,
       "2023-01-25": 79,
       "2023-01-24": 15,
       "2022-12-17": 23,
@@ -237,7 +237,7 @@
     "status": "up",
     "uptime": "73.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.64%",
+    "uptimeWeek": "70.74%",
     "uptimeMonth": "80.22%",
     "uptimeYear": "73.39%",
     "time": 1072,
@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 106
+      "2023-01-31": 116
     }
   },
   {
@@ -305,18 +305,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddd",
     "status": "down",
-    "uptime": "54.54%",
-    "uptimeDay": "54.54%",
-    "uptimeWeek": "54.54%",
-    "uptimeMonth": "54.54%",
-    "uptimeYear": "54.54%",
+    "uptime": "42.62%",
+    "uptimeDay": "42.62%",
+    "uptimeWeek": "42.62%",
+    "uptimeMonth": "42.62%",
+    "uptimeYear": "42.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 17
+      "2023-01-31": 27
     }
   }
 ]
