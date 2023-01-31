@@ -34,6 +34,9 @@ sites:
     check: "tcp-ping"
     url: 185.121.81.43
     
+  - name: mb-29.hoster.kz
+    check: "tcp-ping"
+    url: 185.121.82.156
     
     
 
