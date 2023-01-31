@@ -30,6 +30,12 @@ sites:
   - name: orda.kz
     url: https://orda.kz/
     
+  - name: server.h-24871.kz
+    check: "tcp-ping"
+    url: 185.121.81.43
+    
+    
+    
 
 status-website:
   theme: night
