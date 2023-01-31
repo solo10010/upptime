@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agropump.com.ico",
     "slug": "agropump-com",
     "status": "up",
-    "uptime": "95.42%",
+    "uptime": "95.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "95.42%",
+    "uptimeYear": "95.43%",
     "time": 2201,
     "timeDay": 2718,
     "timeWeek": 2147,
@@ -236,7 +236,7 @@
     "status": "up",
     "uptime": "73.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.05%",
+    "uptimeWeek": "74.15%",
     "uptimeMonth": "80.22%",
     "uptimeYear": "73.55%",
     "time": 1072,
@@ -265,19 +265,19 @@
     "url": "185.121.81.43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-24871-kz",
-    "status": "down",
-    "uptime": "92.61%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "92.61%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "status": "up",
+    "uptime": "90.68%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "90.68%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "90.68%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-01-31": 34
+      "2023-01-31": 44
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 449
+      "2023-01-31": 460
     }
   },
   {
@@ -306,18 +306,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ddd",
     "status": "down",
-    "uptime": "5.22%",
-    "uptimeDay": "5.22%",
-    "uptimeWeek": "5.22%",
-    "uptimeMonth": "5.22%",
-    "uptimeYear": "5.22%",
+    "uptime": "5.08%",
+    "uptimeDay": "5.08%",
+    "uptimeWeek": "5.08%",
+    "uptimeMonth": "5.08%",
+    "uptimeYear": "5.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-31": 360
+      "2023-01-31": 371
     }
   }
 ]
