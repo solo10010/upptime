@@ -168,11 +168,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agropump.com.ico",
     "slug": "agropump-com",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "95.51%",
+    "uptimeYear": "95.52%",
     "time": 2198,
     "timeDay": 1943,
     "timeWeek": 2266,
@@ -235,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "74.35%",
+    "uptime": "74.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.06%",
+    "uptimeWeek": "92.26%",
     "uptimeMonth": "80.22%",
-    "uptimeYear": "74.35%",
+    "uptimeYear": "74.36%",
     "time": 1069,
     "timeDay": 888,
     "timeWeek": 1209,
@@ -266,19 +266,19 @@
     "url": "185.121.81.43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-24871-kz",
-    "status": "down",
-    "uptime": "91.89%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "91.89%",
-    "uptimeYear": "91.89%",
+    "status": "up",
+    "uptime": "91.10%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "91.10%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "91.10%",
     "time": 214,
     "timeDay": 216,
     "timeWeek": 214,
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-02-01": 133,
+      "2023-02-01": 153,
       "2023-01-31": 52
     }
   },
@@ -299,7 +299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 1238,
+      "2023-02-01": 1258,
       "2023-01-31": 1027
     }
   },
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 1238,
+      "2023-02-01": 1258,
       "2023-01-31": 937
     }
   }
