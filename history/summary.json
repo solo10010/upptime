@@ -239,7 +239,7 @@
     "slug": "orda-kz",
     "status": "down",
     "uptime": "74.69%",
-    "uptimeDay": "61.19%",
+    "uptimeDay": "61.17%",
     "uptimeWeek": "70.72%",
     "uptimeMonth": "73.48%",
     "uptimeYear": "74.69%",
@@ -339,18 +339,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "serveer-perilaglavsnab-kz",
     "status": "down",
-    "uptime": "20.44%",
-    "uptimeDay": "20.44%",
-    "uptimeWeek": "20.44%",
-    "uptimeMonth": "20.44%",
-    "uptimeYear": "20.44%",
+    "uptime": "11.13%",
+    "uptimeDay": "11.13%",
+    "uptimeWeek": "11.13%",
+    "uptimeMonth": "11.13%",
+    "uptimeYear": "11.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 0
+      "2023-02-10": 1
     }
   }
 ]
