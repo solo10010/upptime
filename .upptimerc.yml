@@ -34,6 +34,9 @@ sites:
     check: "tcp-ping"
     url: 185.121.81.43
     
+  - name: server.h-91514.kz
+    check: "tcp-ping"
+    url: 185.121.81.40
 
 status-website:
   theme: night
