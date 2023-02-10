@@ -238,18 +238,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "down",
-    "uptime": "74.62%",
-    "uptimeDay": "56.55%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "73.33%",
-    "uptimeYear": "74.62%",
+    "uptime": "74.61%",
+    "uptimeDay": "55.69%",
+    "uptimeWeek": "69.93%",
+    "uptimeMonth": "73.30%",
+    "uptimeYear": "74.61%",
     "time": 1065,
     "timeDay": 1122,
     "timeWeek": 1051,
     "timeMonth": 1076,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-02-10": 626,
+      "2023-02-10": 638,
       "2023-02-08": 207,
       "2023-02-07": 1440,
       "2023-02-06": 746,
@@ -300,19 +300,19 @@
     "url": "185.121.81.40",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-91514-kz",
-    "status": "up",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "status": "down",
+    "uptime": "5.82%",
+    "uptimeDay": "5.82%",
+    "uptimeWeek": "5.82%",
+    "uptimeMonth": "5.82%",
+    "uptimeYear": "5.82%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-02-10": 220
+      "2023-02-10": 221
     }
   },
   {
@@ -339,18 +339,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "serveer-perilaglavsnab-kz",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 67
+      "2023-02-10": 79
     }
   }
 ]
