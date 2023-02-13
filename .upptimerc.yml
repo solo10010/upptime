@@ -46,13 +46,6 @@ sites:
     check: "tcp-ping"
     url: 185.121.81.33
     
-  - name: ddd
-    check: "tcp-ping"
-    url: 185.113.135.135
-  
-  - name: mb-29.hoster.kz
-    check: "tcp-ping"
-    url: 185.113.135.135
 
 status-website:
   theme: night
