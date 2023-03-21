@@ -311,7 +311,7 @@
     "slug": "server-h-24871-kz",
     "status": "up",
     "uptime": "94.65%",
-    "uptimeDay": "79.66%",
+    "uptimeDay": "82.03%",
     "uptimeWeek": "83.23%",
     "uptimeMonth": "93.66%",
     "uptimeYear": "94.65%",
@@ -407,7 +407,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 1438,
+      "2023-03-21": 32,
+      "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
