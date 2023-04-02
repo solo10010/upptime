@@ -294,8 +294,8 @@
     "status": "down",
     "uptime": "80.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.88%",
-    "uptimeMonth": "85.62%",
+    "uptimeWeek": "38.77%",
+    "uptimeMonth": "85.59%",
     "uptimeYear": "80.99%",
     "time": 1236,
     "timeDay": 636,
@@ -303,7 +303,7 @@
     "timeMonth": 1758,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2023-04-02": 917,
+      "2023-04-02": 929,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -337,19 +337,19 @@
     "url": "185.121.81.43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-h-24871-kz",
-    "status": "up",
-    "uptime": "87.97%",
-    "uptimeDay": "3.17%",
-    "uptimeWeek": "32.11%",
+    "status": "down",
+    "uptime": "88.00%",
+    "uptimeDay": "3.84%",
+    "uptimeWeek": "32.09%",
     "uptimeMonth": "79.36%",
-    "uptimeYear": "87.97%",
+    "uptimeYear": "88.00%",
     "time": 231,
     "timeDay": 400,
     "timeWeek": 282,
     "timeMonth": 244,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-04-02": 898,
+      "2023-04-02": 900,
       "2023-04-01": 1300,
       "2023-03-31": 1348,
       "2023-03-30": 1279,
@@ -376,7 +376,7 @@
       "2023-02-04": 260,
       "2023-02-03": 67,
       "2023-02-02": 150,
-      "2023-02-01": 40
+      "2023-02-01": 20
     }
   },
   {
@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 918,
+      "2023-04-02": 929,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
