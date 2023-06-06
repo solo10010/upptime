@@ -45,6 +45,9 @@ sites:
   - name: serveer.perilaglavsnab.kz
     check: "tcp-ping"
     url: 185.121.81.33
+  
+  - name: stayinformed.gskpro.com.kz
+    url: https://www.stayinformed.gskpro.com.kz/
     
 
 status-website:
