@@ -14,7 +14,7 @@
     "timeDay": 1959,
     "timeWeek": 1636,
     "timeMonth": 1631,
-    "timeYear": 4252,
+    "timeYear": 4261,
     "dailyMinutesDown": {
       "2023-06-27": 86,
       "2023-04-24": 17,
@@ -56,7 +56,7 @@
     "timeDay": 2990,
     "timeWeek": 3384,
     "timeMonth": 5981,
-    "timeYear": 2975,
+    "timeYear": 2978,
     "dailyMinutesDown": {
       "2023-05-24": 32,
       "2023-01-25": 80,
@@ -255,9 +255,9 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.70%",
     "time": 4469,
     "timeDay": 1345,
@@ -265,7 +265,6 @@
     "timeMonth": 7368,
     "timeYear": 4469,
     "dailyMinutesDown": {
-      "2023-06-28": 13,
       "2023-06-25": 20,
       "2023-05-23": 38,
       "2023-05-11": 18,
