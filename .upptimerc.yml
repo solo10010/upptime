@@ -32,6 +32,9 @@ sites:
   
   - name: stayinformed.gskpro.com.kz
     url: https://www.stayinformed.gskpro.com.kz/
+
+  - name: dauran.kz
+    url: https://dauran.kz/
     
 
 status-website:
