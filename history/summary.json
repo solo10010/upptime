@@ -167,12 +167,12 @@
     "url": "https://svet.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/svet.kz.ico",
     "slug": "svet-kz",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "83.09%",
-    "uptimeWeek": "95.04%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "85.07%",
+    "uptimeWeek": "95.03%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 2913,
     "timeDay": 2088,
     "timeWeek": 4091,
@@ -223,8 +223,7 @@
       "2022-11-24": 887,
       "2022-11-23": 90,
       "2022-11-21": 17,
-      "2022-11-14": 18,
-      "2022-10-10": 67
+      "2022-11-14": 18
     }
   },
   {
