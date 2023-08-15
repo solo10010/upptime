@@ -158,8 +158,7 @@
       "2023-06-29": 255,
       "2023-06-09": 21,
       "2023-03-31": 148,
-      "2022-11-23": 66,
-      "2022-08-15": 20
+      "2022-11-23": 66
     }
   },
   {
@@ -279,17 +278,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.70%",
     "time": 5178,
-    "timeDay": 1843,
+    "timeDay": 1608,
     "timeWeek": 7309,
     "timeMonth": 8787,
     "timeYear": 5178,
     "dailyMinutesDown": {
-      "2023-08-14": 10,
       "2023-08-01": 80,
       "2023-07-29": 48,
       "2023-07-21": 24,
