@@ -14,7 +14,7 @@
     "timeDay": 1148,
     "timeWeek": 1039,
     "timeMonth": 1148,
-    "timeYear": 3773,
+    "timeYear": 3771,
     "dailyMinutesDown": {
       "2023-08-16": 20,
       "2023-08-15": 17,
@@ -61,7 +61,7 @@
     "timeDay": 2663,
     "timeWeek": 2689,
     "timeMonth": 2588,
-    "timeYear": 2996,
+    "timeYear": 2998,
     "dailyMinutesDown": {
       "2023-09-06": 16,
       "2023-07-29": 85,
@@ -88,7 +88,7 @@
     "timeDay": 2917,
     "timeWeek": 5852,
     "timeMonth": 5897,
-    "timeYear": 4189,
+    "timeYear": 4193,
     "dailyMinutesDown": {
       "2023-10-02": 24,
       "2023-09-16": 58,
@@ -151,7 +151,7 @@
     "timeDay": 1366,
     "timeWeek": 2068,
     "timeMonth": 1778,
-    "timeYear": 1566,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2023-09-08": 66,
       "2023-08-01": 19,
@@ -177,7 +177,7 @@
     "timeDay": 1618,
     "timeWeek": 2617,
     "timeMonth": 2096,
-    "timeYear": 2861,
+    "timeYear": 2862,
     "dailyMinutesDown": {
       "2023-08-08": 31,
       "2023-08-07": 24,
@@ -281,17 +281,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.70%",
     "time": 5011,
     "timeDay": 5680,
-    "timeWeek": 8166,
-    "timeMonth": 5900,
+    "timeWeek": 6671,
+    "timeMonth": 6027,
     "timeYear": 5011,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-09-29": 37,
       "2023-09-26": 15,
       "2023-09-21": 23,
@@ -338,7 +337,7 @@
     "uptimeYear": "99.93%",
     "time": 1086,
     "timeDay": 930,
-    "timeWeek": 1101,
+    "timeWeek": 1081,
     "timeMonth": 1100,
     "timeYear": 1086,
     "dailyMinutesDown": {
@@ -363,7 +362,7 @@
     "uptimeYear": "91.43%",
     "time": 1537,
     "timeDay": 858,
-    "timeWeek": 2778,
+    "timeWeek": 2890,
     "timeMonth": 3794,
     "timeYear": 1537,
     "dailyMinutesDown": {
@@ -424,7 +423,7 @@
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 558,
-    "timeWeek": 319,
+    "timeWeek": 318,
     "timeMonth": 266,
     "timeYear": 272,
     "dailyMinutesDown": {}
@@ -442,7 +441,7 @@
     "uptimeYear": "100.00%",
     "time": 2810,
     "timeDay": 1551,
-    "timeWeek": 2394,
+    "timeWeek": 2437,
     "timeMonth": 1995,
     "timeYear": 2810,
     "dailyMinutesDown": {}
