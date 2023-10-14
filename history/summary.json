@@ -14,7 +14,7 @@
     "timeDay": 1535,
     "timeWeek": 1235,
     "timeMonth": 1126,
-    "timeYear": 3699,
+    "timeYear": 3695,
     "dailyMinutesDown": {
       "2023-08-16": 20,
       "2023-08-15": 17,
@@ -61,7 +61,7 @@
     "timeDay": 2324,
     "timeWeek": 2393,
     "timeMonth": 2507,
-    "timeYear": 2998,
+    "timeYear": 2999,
     "dailyMinutesDown": {
       "2023-09-06": 16,
       "2023-07-29": 85,
@@ -88,7 +88,7 @@
     "timeDay": 2931,
     "timeWeek": 6730,
     "timeMonth": 6435,
-    "timeYear": 4247,
+    "timeYear": 4250,
     "dailyMinutesDown": {
       "2023-10-02": 24,
       "2023-09-16": 58,
@@ -151,7 +151,7 @@
     "timeDay": 1896,
     "timeWeek": 1723,
     "timeMonth": 1641,
-    "timeYear": 1571,
+    "timeYear": 1569,
     "dailyMinutesDown": {
       "2023-09-08": 66,
       "2023-08-01": 19,
@@ -177,7 +177,7 @@
     "timeDay": 2075,
     "timeWeek": 2877,
     "timeMonth": 2302,
-    "timeYear": 2869,
+    "timeYear": 2871,
     "dailyMinutesDown": {
       "2023-08-08": 31,
       "2023-08-07": 24,
@@ -281,17 +281,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.71%",
     "time": 5158,
     "timeDay": 22768,
     "timeWeek": 9514,
-    "timeMonth": 7757,
+    "timeMonth": 7938,
     "timeYear": 5158,
     "dailyMinutesDown": {
-      "2023-10-13": 8,
       "2023-09-29": 37,
       "2023-09-26": 15,
       "2023-09-21": 23,
@@ -339,7 +338,7 @@
     "time": 1088,
     "timeDay": 942,
     "timeWeek": 1172,
-    "timeMonth": 1104,
+    "timeMonth": 1097,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2023-09-30": 65,
@@ -364,7 +363,7 @@
     "time": 1525,
     "timeDay": 1219,
     "timeWeek": 1069,
-    "timeMonth": 3667,
+    "timeMonth": 3702,
     "timeYear": 1525,
     "dailyMinutesDown": {
       "2023-09-29": 20,
@@ -425,7 +424,7 @@
     "time": 274,
     "timeDay": 373,
     "timeWeek": 319,
-    "timeMonth": 284,
+    "timeMonth": 283,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -443,7 +442,7 @@
     "time": 2749,
     "timeDay": 1904,
     "timeWeek": 2401,
-    "timeMonth": 2124,
+    "timeMonth": 2126,
     "timeYear": 2749,
     "dailyMinutesDown": {}
   }
