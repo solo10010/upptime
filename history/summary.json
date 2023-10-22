@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svet.kz.ico",
     "slug": "svet-kz",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -357,11 +357,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "91.88%",
+    "uptime": "91.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "91.88%",
+    "uptimeYear": "91.89%",
     "time": 1516,
     "timeDay": 1101,
     "timeWeek": 1122,
@@ -435,9 +435,9 @@
     "url": "https://dauran.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/dauran.kz.ico",
     "slug": "dauran-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -446,6 +446,8 @@
     "timeWeek": 1936,
     "timeMonth": 2165,
     "timeYear": 2649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-22": 0
+    }
   }
 ]
