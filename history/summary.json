@@ -13,8 +13,8 @@
     "time": 3444,
     "timeDay": 571,
     "timeWeek": 521,
-    "timeMonth": 1099,
-    "timeYear": 3405,
+    "timeMonth": 1086,
+    "timeYear": 3402,
     "dailyMinutesDown": {
       "2023-08-16": 20,
       "2023-08-15": 17,
@@ -41,8 +41,7 @@
       "2022-11-26": 46,
       "2022-11-17": 185,
       "2022-11-16": 151,
-      "2022-11-14": 196,
-      "2022-11-13": 137
+      "2022-11-14": 196
     }
   },
   {
@@ -59,8 +58,8 @@
     "time": 2932,
     "timeDay": 3163,
     "timeWeek": 3140,
-    "timeMonth": 2603,
-    "timeYear": 2960,
+    "timeMonth": 2610,
+    "timeYear": 2962,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-11-04": 88,
@@ -88,8 +87,8 @@
     "time": 4181,
     "timeDay": 4755,
     "timeWeek": 5304,
-    "timeMonth": 5123,
-    "timeYear": 4399,
+    "timeMonth": 5160,
+    "timeYear": 4403,
     "dailyMinutesDown": {
       "2023-11-08": 21,
       "2023-10-27": 26,
@@ -153,7 +152,7 @@
     "time": 1613,
     "timeDay": 1911,
     "timeWeek": 1803,
-    "timeMonth": 1794,
+    "timeMonth": 1804,
     "timeYear": 1570,
     "dailyMinutesDown": {
       "2023-09-08": 66,
@@ -179,7 +178,7 @@
     "time": 2894,
     "timeDay": 8416,
     "timeWeek": 4775,
-    "timeMonth": 3445,
+    "timeMonth": 3479,
     "timeYear": 2938,
     "dailyMinutesDown": {
       "2023-10-24": 17,
@@ -244,7 +243,7 @@
     "time": 3497,
     "timeDay": 2558,
     "timeWeek": 4265,
-    "timeMonth": 3235,
+    "timeMonth": 3278,
     "timeYear": 3497,
     "dailyMinutesDown": {
       "2023-10-19": 21,
@@ -285,17 +284,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 4996,
     "timeDay": 1281,
     "timeWeek": 1392,
-    "timeMonth": 3866,
+    "timeMonth": 3620,
     "timeYear": 4996,
     "dailyMinutesDown": {
-      "2023-11-12": 13,
       "2023-09-29": 37,
       "2023-09-26": 15,
       "2023-09-21": 23,
@@ -343,7 +341,7 @@
     "time": 1099,
     "timeDay": 1501,
     "timeWeek": 1252,
-    "timeMonth": 1197,
+    "timeMonth": 1198,
     "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-09-30": 65,
@@ -429,7 +427,7 @@
     "time": 264,
     "timeDay": 301,
     "timeWeek": 220,
-    "timeMonth": 242,
+    "timeMonth": 232,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -447,7 +445,7 @@
     "time": 2563,
     "timeDay": 1789,
     "timeWeek": 1878,
-    "timeMonth": 2162,
+    "timeMonth": 2172,
     "timeYear": 2563,
     "dailyMinutesDown": {}
   }
