@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 3441,
     "timeDay": 198,
     "timeWeek": 477,
     "timeMonth": 994,
-    "timeYear": 3354,
+    "timeYear": 3355,
     "dailyMinutesDown": {
       "2023-08-16": 20,
       "2023-08-15": 17,
@@ -38,8 +38,7 @@
       "2022-12-27": 33,
       "2022-12-16": 80,
       "2022-12-15": 145,
-      "2022-11-26": 46,
-      "2022-11-17": 185
+      "2022-11-26": 46
     }
   },
   {
@@ -57,7 +56,7 @@
     "timeDay": 2992,
     "timeWeek": 3464,
     "timeMonth": 2618,
-    "timeYear": 2968,
+    "timeYear": 2971,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-11-04": 88,
@@ -86,7 +85,7 @@
     "timeDay": 2494,
     "timeWeek": 5266,
     "timeMonth": 5206,
-    "timeYear": 4424,
+    "timeYear": 4429,
     "dailyMinutesDown": {
       "2023-11-15": 17,
       "2023-11-08": 21,
@@ -152,7 +151,7 @@
     "timeDay": 1212,
     "timeWeek": 1669,
     "timeMonth": 1785,
-    "timeYear": 1572,
+    "timeYear": 1573,
     "dailyMinutesDown": {
       "2023-11-14": 16,
       "2023-09-08": 66,
@@ -179,7 +178,7 @@
     "timeDay": 7850,
     "timeWeek": 7204,
     "timeMonth": 4223,
-    "timeYear": 2982,
+    "timeYear": 2984,
     "dailyMinutesDown": {
       "2023-11-16": 18,
       "2023-10-24": 17,
@@ -285,9 +284,9 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 4961,
     "timeDay": 1401,
@@ -295,7 +294,6 @@
     "timeMonth": 2317,
     "timeYear": 4961,
     "dailyMinutesDown": {
-      "2023-11-16": 6,
       "2023-09-29": 37,
       "2023-09-26": 15,
       "2023-09-21": 23,
@@ -445,7 +443,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2566,
-    "timeDay": 1766,
+    "timeDay": 1491,
     "timeWeek": 2262,
     "timeMonth": 2264,
     "timeYear": 2566,
