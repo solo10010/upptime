@@ -14,7 +14,7 @@
     "timeDay": 1278,
     "timeWeek": 490,
     "timeMonth": 824,
-    "timeYear": 3287,
+    "timeYear": 3283,
     "dailyMinutesDown": {
       "2023-08-16": 20,
       "2023-08-15": 17,
@@ -56,7 +56,7 @@
     "timeDay": 2676,
     "timeWeek": 4271,
     "timeMonth": 2863,
-    "timeYear": 3006,
+    "timeYear": 3008,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-11-04": 88,
@@ -84,7 +84,7 @@
     "timeDay": 2758,
     "timeWeek": 3613,
     "timeMonth": 4898,
-    "timeYear": 4436,
+    "timeYear": 4440,
     "dailyMinutesDown": {
       "2023-11-15": 17,
       "2023-11-08": 21,
@@ -181,7 +181,7 @@
     "timeDay": 1557,
     "timeWeek": 3856,
     "timeMonth": 4473,
-    "timeYear": 2998,
+    "timeYear": 2993,
     "dailyMinutesDown": {
       "2023-11-16": 18,
       "2023-10-24": 17,
@@ -227,8 +227,7 @@
       "2022-12-11": 21,
       "2022-12-09": 187,
       "2022-12-07": 23,
-      "2022-11-25": 302,
-      "2022-11-24": 887
+      "2022-11-25": 302
     }
   },
   {
@@ -286,9 +285,9 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 4903,
     "timeDay": 1608,
@@ -296,7 +295,6 @@
     "timeMonth": 2185,
     "timeYear": 4903,
     "dailyMinutesDown": {
-      "2023-11-23": 7,
       "2023-09-29": 37,
       "2023-09-26": 15,
       "2023-09-21": 23,
@@ -361,11 +359,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "92.67%",
+    "uptime": "92.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.67%",
+    "uptimeYear": "92.68%",
     "time": 1502,
     "timeDay": 1092,
     "timeWeek": 1139,
