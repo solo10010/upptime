@@ -14,7 +14,7 @@
     "timeDay": 1119,
     "timeWeek": 1550,
     "timeMonth": 1767,
-    "timeYear": 2645,
+    "timeYear": 2638,
     "dailyMinutesDown": {
       "2024-01-20": 16,
       "2023-08-16": 20,
@@ -53,7 +53,7 @@
     "timeDay": 2619,
     "timeWeek": 2454,
     "timeMonth": 2703,
-    "timeYear": 3099,
+    "timeYear": 3103,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-11-04": 88,
@@ -81,7 +81,7 @@
     "timeDay": 3452,
     "timeWeek": 2252,
     "timeMonth": 2600,
-    "timeYear": 4354,
+    "timeYear": 4359,
     "dailyMinutesDown": {
       "2024-01-10": 21,
       "2023-11-15": 17,
@@ -138,7 +138,7 @@
     "timeDay": 1054,
     "timeWeek": 1175,
     "timeMonth": 1467,
-    "timeYear": 1565,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2024-01-18": 239,
       "2024-01-17": 734,
@@ -172,7 +172,7 @@
     "timeDay": 1554,
     "timeWeek": 2138,
     "timeMonth": 1925,
-    "timeYear": 2838,
+    "timeYear": 2840,
     "dailyMinutesDown": {
       "2024-01-17": 15,
       "2023-12-08": 45,
@@ -231,7 +231,7 @@
     "timeDay": 1405,
     "timeWeek": 2237,
     "timeMonth": 2106,
-    "timeYear": 3507,
+    "timeYear": 3511,
     "dailyMinutesDown": {
       "2023-12-13": 68,
       "2023-11-29": 28,
@@ -266,17 +266,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.76%",
     "time": 4506,
     "timeDay": 1367,
     "timeWeek": 1301,
     "timeMonth": 1890,
-    "timeYear": 4550,
+    "timeYear": 4556,
     "dailyMinutesDown": {
-      "2024-01-22": 14,
       "2024-01-18": 15,
       "2023-09-29": 37,
       "2023-09-26": 15,
@@ -326,7 +325,7 @@
     "timeDay": 966,
     "timeWeek": 951,
     "timeMonth": 1078,
-    "timeYear": 1115,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-09-30": 65,
       "2023-09-04": 29,
@@ -346,12 +345,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.23%",
     "time": 1507,
     "timeDay": 1605,
     "timeWeek": 1150,
     "timeMonth": 1920,
-    "timeYear": 1559,
+    "timeYear": 1561,
     "dailyMinutesDown": {
       "2023-09-29": 20,
       "2023-09-16": 116,
@@ -384,8 +383,7 @@
       "2023-02-06": 746,
       "2023-01-26": 599,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
