@@ -13,8 +13,8 @@
     "time": 3224,
     "timeDay": 2236,
     "timeWeek": 2570,
-    "timeMonth": 1729,
-    "timeYear": 2394,
+    "timeMonth": 1738,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2024-01-20": 16,
       "2023-08-16": 20,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2946,
+    "time": 2983,
     "timeDay": 3407,
     "timeWeek": 3258,
-    "timeMonth": 2958,
-    "timeYear": 3111,
+    "timeMonth": 2940,
+    "timeYear": 3112,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-11-04": 88,
@@ -78,8 +78,8 @@
     "time": 4270,
     "timeDay": 1872,
     "timeWeek": 2212,
-    "timeMonth": 2254,
-    "timeYear": 4412,
+    "timeMonth": 2263,
+    "timeYear": 4416,
     "dailyMinutesDown": {
       "2024-01-30": 28,
       "2024-01-10": 21,
@@ -132,8 +132,8 @@
     "time": 1609,
     "timeDay": 2560,
     "timeWeek": 1715,
-    "timeMonth": 1833,
-    "timeYear": 1627,
+    "timeMonth": 1839,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2024-02-01": 72,
       "2024-01-24": 23,
@@ -168,8 +168,8 @@
     "time": 2848,
     "timeDay": 2018,
     "timeWeek": 1871,
-    "timeMonth": 2038,
-    "timeYear": 2788,
+    "timeMonth": 2051,
+    "timeYear": 2789,
     "dailyMinutesDown": {
       "2024-01-17": 15,
       "2023-12-08": 45,
@@ -223,8 +223,8 @@
     "time": 3279,
     "timeDay": 1519,
     "timeWeek": 2045,
-    "timeMonth": 1905,
-    "timeYear": 3442,
+    "timeMonth": 1906,
+    "timeYear": 3445,
     "dailyMinutesDown": {
       "2023-12-13": 68,
       "2023-11-29": 28,
@@ -257,17 +257,16 @@
     "slug": "zakazbiletov-kz",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.77%",
     "time": 4437,
     "timeDay": 1139,
     "timeWeek": 3023,
-    "timeMonth": 2601,
-    "timeYear": 4522,
+    "timeMonth": 2624,
+    "timeYear": 4528,
     "dailyMinutesDown": {
-      "2024-02-13": 4,
       "2024-01-18": 15,
       "2023-09-29": 37,
       "2023-09-26": 15,
@@ -297,8 +296,7 @@
       "2023-03-19": 153,
       "2023-03-18": 109,
       "2023-03-06": 30,
-      "2023-02-15": 41,
-      "2023-02-14": 230
+      "2023-02-15": 41
     }
   },
   {
@@ -315,8 +313,8 @@
     "time": 1111,
     "timeDay": 1921,
     "timeWeek": 1171,
-    "timeMonth": 1063,
-    "timeYear": 1119,
+    "timeMonth": 1061,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2024-01-23": 25,
       "2023-09-30": 65,
@@ -340,8 +338,8 @@
     "time": 1485,
     "timeDay": 1052,
     "timeWeek": 1011,
-    "timeMonth": 1105,
-    "timeYear": 1573,
+    "timeMonth": 1095,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2024-02-01": 18,
       "2023-09-29": 20,
@@ -401,7 +399,7 @@
     "time": 2392,
     "timeDay": 2581,
     "timeWeek": 2353,
-    "timeMonth": 2084,
+    "timeMonth": 2099,
     "timeYear": 2392,
     "dailyMinutesDown": {}
   }
