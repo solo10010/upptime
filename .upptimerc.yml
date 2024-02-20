@@ -35,6 +35,9 @@ sites:
 
   - name: dauran.kz
     url: https://dauran.kz/
+
+  - name: hunting-shop.com.kz
+    url: https://hunting-shop.com.kz/
     
 
 status-website:
