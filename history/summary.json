@@ -408,19 +408,19 @@
     "url": "https://hunting-shop.com.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/hunting-shop.com.kz.ico",
     "slug": "hunting-shop-com-kz",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2520,
-    "timeDay": 1726,
-    "timeWeek": 2520,
-    "timeMonth": 2520,
-    "timeYear": 2520,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 2503,
+    "timeDay": 2089,
+    "timeWeek": 2503,
+    "timeMonth": 2503,
+    "timeYear": 2503,
     "dailyMinutesDown": {
-      "2024-02-22": 0
+      "2024-02-22": 9
     }
   }
 ]
