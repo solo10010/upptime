@@ -122,12 +122,12 @@
     "slug": "mechta-kz",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.64%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "98.98%",
     "time": 1611,
-    "timeDay": 2689,
+    "timeDay": 1402,
     "timeWeek": 1799,
     "timeMonth": 1993,
     "timeYear": 1634,
@@ -408,17 +408,19 @@
     "url": "https://hunting-shop.com.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/hunting-shop.com.kz.ico",
     "slug": "hunting-shop-com-kz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2520,
     "timeDay": 1726,
     "timeWeek": 2520,
     "timeMonth": 2520,
     "timeYear": 2520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   }
 ]
