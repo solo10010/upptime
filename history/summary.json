@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -405,17 +405,19 @@
     "url": "https://hunting-shop.com.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/hunting-shop.com.kz.ico",
     "slug": "hunting-shop-com-kz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2520,
     "timeDay": 2540,
     "timeWeek": 2520,
     "timeMonth": 2520,
     "timeYear": 2520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   }
 ]
