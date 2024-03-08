@@ -320,7 +320,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/orda.kz.ico",
     "slug": "orda-kz",
     "status": "up",
-    "uptime": "94.41%",
+    "uptime": "94.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -397,9 +397,9 @@
     "url": "https://hunting-shop.com.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/hunting-shop.com.kz.ico",
     "slug": "hunting-shop-com-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -409,6 +409,7 @@
     "timeMonth": 3312,
     "timeYear": 3312,
     "dailyMinutesDown": {
+      "2024-03-08": 0,
       "2024-02-25": 16
     }
   }
