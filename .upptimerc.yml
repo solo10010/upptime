@@ -28,6 +28,7 @@ sites:
     url: https://orda.kz/
 
 
+
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
