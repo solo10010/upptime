@@ -17,9 +17,6 @@ sites:
     
   - name: svet.kz
     url: https://svet.kz/
-    
-  - name: agropump.com
-    url: https://agropump.com/
   
   - name: zakazbiletov.kz
     url: https://zakazbiletov.kz/
@@ -29,16 +26,7 @@ sites:
     
   - name: orda.kz
     url: https://orda.kz/
-  
-  - name: stayinformed.gskpro.com.kz
-    url: https://www.stayinformed.gskpro.com.kz/
 
-  - name: dauran.kz
-    url: https://dauran.kz/
-
-  - name: hunting-shop.com.kz
-    url: https://hunting-shop.com.kz/
-    
 
 status-website:
   theme: night
