@@ -27,6 +27,8 @@ sites:
   - name: orda.kz
     url: https://orda.kz/
 
+  - name: test
+    url: http://185.111.106.73
 
 
 status-website:
