@@ -1,7 +1,7 @@
 url: https://zakazbiletov.kz/
-status: up
-code: 200
-responseTime: 3329
-lastUpdated: 2024-11-24T23:20:19.132Z
+status: down
+code: 503
+responseTime: 764
+lastUpdated: 2024-11-25T17:54:18.588Z
 startTime: 2022-12-22T06:44:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
