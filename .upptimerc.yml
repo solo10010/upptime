@@ -27,6 +27,9 @@ sites:
   - name: orda.kz
     url: https://orda.kz/
 
+  - name: qa-academy.kz
+    url: https://qa-academy.kz/
+
 
 status-website:
   theme: night
