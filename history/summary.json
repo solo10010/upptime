@@ -221,9 +221,9 @@
     "url": "https://mirror.hoster.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.hoster.kz.ico",
     "slug": "mirror-hoster-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -233,6 +233,7 @@
     "timeMonth": 1153,
     "timeYear": 1112,
     "dailyMinutesDown": {
+      "2025-01-22": 0,
       "2024-08-25": 19,
       "2024-08-17": 72,
       "2024-08-16": 81,
@@ -268,18 +269,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa-academy.kz.ico",
     "slug": "qa-academy-kz",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.81%",
     "time": 3230,
     "timeDay": 2462,
     "timeWeek": 2875,
     "timeMonth": 3364,
     "timeYear": 3230,
     "dailyMinutesDown": {
-      "2025-01-22": 14,
       "2024-12-10": 137
     }
   }
