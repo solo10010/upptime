@@ -76,18 +76,19 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 2891,
+    "time": 2888,
     "timeDay": 3360,
     "timeWeek": 3146,
     "timeMonth": 2827,
     "timeYear": 2535,
     "dailyMinutesDown": {
+      "2025-02-04": 1,
       "2024-12-10": 139,
       "2024-12-05": 23,
       "2024-11-29": 19,
@@ -186,7 +187,7 @@
     "time": 2484,
     "timeDay": 3542,
     "timeWeek": 3438,
-    "timeMonth": 3245,
+    "timeMonth": 3327,
     "timeYear": 2576,
     "dailyMinutesDown": {
       "2024-11-26": 158,
@@ -265,9 +266,9 @@
     "url": "https://qa-academy.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/qa-academy.kz.ico",
     "slug": "qa-academy-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -277,6 +278,7 @@
     "timeMonth": 3125,
     "timeYear": 3181,
     "dailyMinutesDown": {
+      "2025-02-04": 0,
       "2024-12-10": 137
     }
   }
