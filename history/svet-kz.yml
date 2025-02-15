@@ -1,7 +1,7 @@
 url: https://svet.kz/
-status: up
-code: 200
-responseTime: 2003
-lastUpdated: 2025-02-14T23:18:25.768Z
+status: down
+code: 502
+responseTime: 891
+lastUpdated: 2025-02-15T22:46:12.111Z
 startTime: 2022-09-03T19:44:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
