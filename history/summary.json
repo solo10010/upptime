@@ -10,10 +10,10 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
-    "time": 2911,
-    "timeDay": 2866,
-    "timeWeek": 3255,
-    "timeMonth": 3290,
+    "time": 2912,
+    "timeDay": 3164,
+    "timeWeek": 3267,
+    "timeMonth": 3296,
     "timeYear": 2547,
     "dailyMinutesDown": {
       "2025-08-13": 20,
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "99.66%",
-    "time": 3347,
-    "timeDay": 2949,
-    "timeWeek": 3620,
-    "timeMonth": 4658,
-    "timeYear": 3430,
+    "time": 3349,
+    "timeDay": 3085,
+    "timeWeek": 3577,
+    "timeMonth": 4618,
+    "timeYear": 3429,
     "dailyMinutesDown": {
       "2025-08-15": 19,
       "2025-08-08": 344,
@@ -74,8 +74,7 @@
       "2024-08-25": 20,
       "2024-08-22": 37,
       "2024-08-18": 20,
-      "2024-08-17": 132,
-      "2024-08-16": 123
+      "2024-08-17": 132
     }
   },
   {
@@ -89,10 +88,10 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
-    "time": 2439,
-    "timeDay": 2257,
-    "timeWeek": 3107,
-    "timeMonth": 3000,
+    "time": 2441,
+    "timeDay": 2464,
+    "timeWeek": 3152,
+    "timeMonth": 3029,
     "timeYear": 2451,
     "dailyMinutesDown": {
       "2025-08-15": 19,
@@ -125,11 +124,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "88.21%",
-    "time": 1205,
-    "timeDay": 1199,
-    "timeWeek": 1124,
-    "timeMonth": 1333,
-    "timeYear": 1169,
+    "time": 1207,
+    "timeDay": 2234,
+    "timeWeek": 1285,
+    "timeMonth": 1354,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-08-12": 35,
       "2025-06-30": 677,
@@ -185,8 +184,7 @@
       "2025-01-06": 22,
       "2024-10-18": 16,
       "2024-08-25": 20,
-      "2024-08-17": 72,
-      "2024-08-16": 90
+      "2024-08-17": 72
     }
   },
   {
@@ -201,10 +199,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
     "time": 1986,
-    "timeDay": 1515,
-    "timeWeek": 1924,
-    "timeMonth": 1932,
-    "timeYear": 1964,
+    "timeDay": 2136,
+    "timeWeek": 1990,
+    "timeMonth": 1944,
+    "timeYear": 1965,
     "dailyMinutesDown": {
       "2025-08-06": 41,
       "2025-06-19": 37,
@@ -215,8 +213,7 @@
       "2024-08-25": 20,
       "2024-08-22": 127,
       "2024-08-21": 17,
-      "2024-08-17": 149,
-      "2024-08-16": 122
+      "2024-08-17": 149
     }
   },
   {
@@ -230,11 +227,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.75%",
-    "time": 2890,
-    "timeDay": 3352,
-    "timeWeek": 3231,
-    "timeMonth": 3834,
-    "timeYear": 3386,
+    "time": 2895,
+    "timeDay": 3965,
+    "timeWeek": 3305,
+    "timeMonth": 3877,
+    "timeYear": 3387,
     "dailyMinutesDown": {
       "2025-08-04": 44,
       "2025-07-21": 19,
@@ -262,9 +259,9 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 1143,
-    "timeDay": 807,
-    "timeWeek": 1184,
+    "time": 1144,
+    "timeDay": 1013,
+    "timeWeek": 1079,
     "timeMonth": 1202,
     "timeYear": 1158,
     "dailyMinutesDown": {
@@ -273,8 +270,7 @@
       "2025-04-18": 19,
       "2025-03-11": 88,
       "2024-08-25": 19,
-      "2024-08-17": 72,
-      "2024-08-16": 81
+      "2024-08-17": 72
     }
   },
   {
@@ -289,9 +285,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 1128,
-    "timeDay": 854,
-    "timeWeek": 2968,
-    "timeMonth": 2033,
+    "timeDay": 1042,
+    "timeWeek": 2986,
+    "timeMonth": 2037,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2025-08-10": 37,
@@ -308,18 +304,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa-academy.kz.ico",
     "slug": "qa-academy-kz",
     "status": "down",
-    "uptime": "72.05%",
+    "uptime": "71.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.05%",
+    "uptimeYear": "71.98%",
     "time": 2984,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 917,
+    "timeMonth": 913,
     "timeYear": 2984,
     "dailyMinutesDown": {
-      "2025-08-15": 1136,
+      "2025-08-16": 48,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
