@@ -1,7 +1,7 @@
 url: https://orda.kz/
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2025-11-18T12:58:06.783Z
+status: down
+code: 500
+responseTime: 168
+lastUpdated: 2025-11-18T13:36:58.031Z
 startTime: 2022-12-22T07:03:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
