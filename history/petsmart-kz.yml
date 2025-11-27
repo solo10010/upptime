@@ -1,7 +1,7 @@
 url: https://petsmart.kz/
-status: up
-code: 200
-responseTime: 5291
-lastUpdated: 2025-11-26T23:21:32.229Z
+status: down
+code: 403
+responseTime: 1275
+lastUpdated: 2025-11-27T01:41:34.340Z
 startTime: 2022-07-21T07:38:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
