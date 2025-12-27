@@ -35,17 +35,17 @@
     "url": "https://vkitae.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "93.10%",
+    "uptimeDay": "93.08%",
     "uptimeWeek": "96.48%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.20%",
-    "time": 3202,
-    "timeDay": 2869,
-    "timeWeek": 3055,
-    "timeMonth": 3177,
-    "timeYear": 3208,
+    "time": 3198,
+    "timeDay": 2709,
+    "timeWeek": 3018,
+    "timeMonth": 3166,
+    "timeYear": 3206,
     "dailyMinutesDown": {
       "2025-12-27": 17,
       "2025-12-26": 111,
@@ -103,7 +103,7 @@
       "2025-09-27": 18,
       "2025-09-24": 19,
       "2025-09-22": 67,
-      "2025-09-21": 27
+      "2025-09-21": 8
     }
   },
   {
@@ -111,17 +111,17 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "95.03%",
+    "uptimeDay": "82.96%",
+    "uptimeWeek": "95.02%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.32%",
     "time": 3193,
-    "timeDay": 12088,
-    "timeWeek": 6497,
-    "timeMonth": 4284,
-    "timeYear": 3289,
+    "timeDay": 11450,
+    "timeWeek": 6401,
+    "timeMonth": 4268,
+    "timeYear": 3287,
     "dailyMinutesDown": {
       "2025-12-27": 105,
       "2025-12-26": 168,
@@ -172,8 +172,7 @@
       "2025-10-23": 69,
       "2025-10-20": 97,
       "2025-10-19": 103,
-      "2025-10-17": 36,
-      "2025-10-12": 24
+      "2025-10-17": 36
     }
   },
   {
@@ -193,7 +192,7 @@
     "timeMonth": 492,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2025-12-27": 582,
+      "2025-12-27": 592,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -480,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 2969,
     "dailyMinutesDown": {
-      "2025-12-27": 582,
+      "2025-12-27": 592,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
