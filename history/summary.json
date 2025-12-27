@@ -35,17 +35,17 @@
     "url": "https://vkitae.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "96.33%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "96.32%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "99.19%",
-    "time": 3195,
-    "timeDay": 2818,
-    "timeWeek": 3077,
-    "timeMonth": 3170,
-    "timeYear": 3207,
+    "uptimeYear": "99.21%",
+    "time": 3193,
+    "timeDay": 2712,
+    "timeWeek": 3045,
+    "timeMonth": 3162,
+    "timeYear": 3205,
     "dailyMinutesDown": {
       "2025-12-27": 62,
       "2025-12-26": 111,
@@ -101,9 +101,7 @@
       "2025-10-01": 19,
       "2025-09-28": 19,
       "2025-09-27": 18,
-      "2025-09-24": 19,
-      "2025-09-22": 67,
-      "2025-09-21": 8
+      "2025-09-24": 19
     }
   },
   {
@@ -111,17 +109,17 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "79.86%",
-    "uptimeWeek": "94.88%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "94.87%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "99.32%",
-    "time": 3195,
-    "timeDay": 11099,
-    "timeWeek": 6518,
-    "timeMonth": 4273,
-    "timeYear": 3289,
+    "time": 3194,
+    "timeDay": 10591,
+    "timeWeek": 6425,
+    "timeMonth": 4258,
+    "timeYear": 3287,
     "dailyMinutesDown": {
       "2025-12-27": 150,
       "2025-12-26": 168,
@@ -171,8 +169,7 @@
       "2025-10-24": 15,
       "2025-10-23": 69,
       "2025-10-20": 97,
-      "2025-10-19": 103,
-      "2025-10-17": 36
+      "2025-10-19": 103
     }
   },
   {
@@ -192,7 +189,7 @@
     "timeMonth": 492,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2025-12-27": 637,
+      "2025-12-27": 650,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -479,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 2969,
     "dailyMinutesDown": {
-      "2025-12-27": 637,
+      "2025-12-27": 650,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
