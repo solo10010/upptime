@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
     "status": "down",
-    "uptime": "79.50%",
+    "uptime": "79.49%",
     "uptimeDay": "28.57%",
     "uptimeWeek": "25.87%",
     "uptimeMonth": "12.55%",
@@ -146,7 +146,7 @@
     "timeMonth": 147,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2026-05-23": 92,
+      "2026-05-23": 114,
       "2026-05-22": 1029,
       "2026-05-21": 1106,
       "2026-05-20": 1207,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2026-05-23": 92,
+      "2026-05-23": 114,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
