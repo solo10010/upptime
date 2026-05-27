@@ -36,9 +36,9 @@
     "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "62.84%",
-    "uptimeWeek": "70.43%",
-    "uptimeMonth": "73.33%",
-    "uptimeYear": "97.42%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "73.10%",
+    "uptimeYear": "97.40%",
     "time": 3192,
     "timeDay": 1645,
     "timeWeek": 2084,
@@ -77,7 +77,7 @@
       "2026-05-24": 606,
       "2026-05-25": 90,
       "2026-05-26": 535,
-      "2026-05-27": 12
+      "2026-05-27": 112
     }
   },
   {
@@ -88,9 +88,9 @@
     "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "62.85%",
-    "uptimeWeek": "69.22%",
+    "uptimeWeek": "68.24%",
     "uptimeMonth": "69.82%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.25%",
     "time": 3416,
     "timeDay": 2439,
     "timeWeek": 2657,
@@ -129,7 +129,7 @@
       "2026-05-24": 604,
       "2026-05-25": 90,
       "2026-05-26": 535,
-      "2026-05-27": 13
+      "2026-05-27": 112
     }
   },
   {
@@ -137,17 +137,17 @@
     "url": "https://www.mechta.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "79.28%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "12.27%",
-    "uptimeMonth": "13.14%",
-    "uptimeYear": "24.51%",
-    "time": 716,
-    "timeDay": 192,
-    "timeWeek": 117,
-    "timeMonth": 145,
-    "timeYear": 440,
+    "uptimeDay": "6.91%",
+    "uptimeWeek": "13.25%",
+    "uptimeMonth": "13.36%",
+    "uptimeYear": "24.53%",
+    "time": 715,
+    "timeDay": 124,
+    "timeWeek": 114,
+    "timeMonth": 144,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2025-06-30": 677,
       "2025-06-29": 1440,
@@ -428,7 +428,7 @@
       "2026-05-24": 1371,
       "2026-05-23": 1440,
       "2026-05-25": 1251,
-      "2026-05-27": 12,
+      "2026-05-27": 13,
       "2026-05-26": 1440
     }
   },
@@ -579,14 +579,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.56%",
+    "uptimeYear": "2.54%",
     "time": 2635,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2026-05-27": 13,
+      "2026-05-27": 113,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
