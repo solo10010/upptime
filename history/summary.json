@@ -35,7 +35,7 @@
     "slug": "vkitae-kz",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "60.38%",
+    "uptimeDay": "61.09%",
     "uptimeWeek": "58.51%",
     "uptimeMonth": "69.03%",
     "uptimeYear": "97.13%",
@@ -87,9 +87,9 @@
     "slug": "petsmart-kz",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "60.42%",
+    "uptimeDay": "61.13%",
     "uptimeWeek": "57.30%",
-    "uptimeMonth": "67.60%",
+    "uptimeMonth": "67.62%",
     "uptimeYear": "97.00%",
     "time": 3414,
     "timeDay": 2847,
@@ -431,7 +431,7 @@
       "2026-05-27": 1277,
       "2026-05-26": 1440,
       "2026-05-28": 1222,
-      "2026-05-29": 110
+      "2026-05-29": 120
     }
   },
   {
@@ -588,7 +588,7 @@
     "timeMonth": 0,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2026-05-29": 110,
+      "2026-05-29": 120,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
