@@ -33,16 +33,16 @@
     "url": "https://vkitae.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "60.29%",
-    "uptimeWeek": "59.43%",
-    "uptimeMonth": "69.24%",
-    "uptimeYear": "97.15%",
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "60.38%",
+    "uptimeWeek": "58.51%",
+    "uptimeMonth": "69.03%",
+    "uptimeYear": "97.13%",
     "time": 3190,
-    "timeDay": 2291,
-    "timeWeek": 2063,
-    "timeMonth": 2238,
+    "timeDay": 2317,
+    "timeWeek": 2072,
+    "timeMonth": 2239,
     "timeYear": 3153,
     "dailyMinutesDown": {
       "2026-04-24": 258,
@@ -77,7 +77,7 @@
       "2026-05-26": 535,
       "2026-05-27": 1218,
       "2026-05-28": 583,
-      "2026-05-29": 2
+      "2026-05-29": 95
     }
   },
   {
@@ -85,15 +85,15 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "60.32%",
-    "uptimeWeek": "58.23%",
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "60.42%",
+    "uptimeWeek": "57.30%",
     "uptimeMonth": "67.60%",
-    "uptimeYear": "97.01%",
+    "uptimeYear": "97.00%",
     "time": 3414,
-    "timeDay": 2691,
-    "timeWeek": 2574,
+    "timeDay": 2847,
+    "timeWeek": 2599,
     "timeMonth": 3449,
     "timeYear": 3502,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
       "2026-05-26": 535,
       "2026-05-27": 1213,
       "2026-05-28": 583,
-      "2026-05-29": 1
+      "2026-05-29": 95
     }
   },
   {
@@ -140,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
     "status": "down",
-    "uptime": "79.19%",
+    "uptime": "79.18%",
     "uptimeDay": "15.12%",
     "uptimeWeek": "10.42%",
     "uptimeMonth": "14.00%",
@@ -431,7 +431,7 @@
       "2026-05-27": 1277,
       "2026-05-26": 1440,
       "2026-05-28": 1222,
-      "2026-05-29": 15
+      "2026-05-29": 110
     }
   },
   {
@@ -581,14 +581,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.01%",
+    "uptimeYear": "1.99%",
     "time": 2632,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2026-05-29": 16,
+      "2026-05-29": 110,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
