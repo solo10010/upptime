@@ -33,19 +33,19 @@
     "url": "https://vkitae.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "34.41%",
-    "uptimeWeek": "24.29%",
-    "uptimeMonth": "55.41%",
-    "uptimeYear": "95.75%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "52.08%",
+    "uptimeWeek": "26.81%",
+    "uptimeMonth": "55.39%",
+    "uptimeYear": "95.77%",
     "time": 3147,
     "timeDay": 2180,
     "timeWeek": 2070,
     "timeMonth": 2136,
     "timeYear": 3103,
     "dailyMinutesDown": {
-      "2026-05-03": 220,
+      "2026-05-03": 105,
       "2026-05-04": 389,
       "2026-05-05": 82,
       "2026-05-06": 618,
@@ -82,7 +82,8 @@
       "2026-06-06": 865,
       "2026-06-07": 1325,
       "2026-06-08": 965,
-      "2026-06-09": 1063
+      "2026-06-09": 1063,
+      "2026-06-10": 6
     }
   },
   {
@@ -90,19 +91,18 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "34.44%",
-    "uptimeWeek": "24.15%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "52.44%",
+    "uptimeWeek": "26.72%",
     "uptimeMonth": "54.01%",
-    "uptimeYear": "95.58%",
-    "time": 3383,
+    "uptimeYear": "95.60%",
+    "time": 3384,
     "timeDay": 3087,
     "timeWeek": 2897,
     "timeMonth": 2883,
     "timeYear": 3490,
     "dailyMinutesDown": {
-      "2026-05-02": 89,
       "2026-05-03": 510,
       "2026-05-04": 388,
       "2026-05-05": 82,
@@ -140,7 +140,8 @@
       "2026-06-06": 864,
       "2026-06-07": 1334,
       "2026-06-08": 976,
-      "2026-06-09": 1063
+      "2026-06-09": 1063,
+      "2026-06-10": 1
     }
   },
   {
@@ -149,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
     "status": "down",
-    "uptime": "78.63%",
+    "uptime": "78.62%",
     "uptimeDay": "12.41%",
     "uptimeWeek": "1.77%",
     "uptimeMonth": "14.13%",
@@ -440,7 +441,7 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
-      "2026-06-10": 128
+      "2026-06-10": 388
     }
   },
   {
@@ -587,7 +588,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa-academy.kz.ico",
     "slug": "qa-academy-kz",
     "status": "down",
-    "uptime": "33.29%",
+    "uptime": "33.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -598,7 +599,7 @@
     "timeMonth": 0,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2026-06-10": 128,
+      "2026-06-10": 388,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
