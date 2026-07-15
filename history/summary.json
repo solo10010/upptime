@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "97.69%",
@@ -162,17 +162,17 @@
     "url": "https://www.mechta.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
-    "status": "up",
+    "status": "down",
     "uptime": "77.06%",
-    "uptimeDay": "25.19%",
-    "uptimeWeek": "9.20%",
-    "uptimeMonth": "5.92%",
+    "uptimeDay": "32.75%",
+    "uptimeWeek": "10.28%",
+    "uptimeMonth": "6.17%",
     "uptimeYear": "21.30%",
     "time": 448,
-    "timeDay": 274,
-    "timeWeek": 202,
-    "timeMonth": 140,
-    "timeYear": 363,
+    "timeDay": 242,
+    "timeWeek": 196,
+    "timeMonth": 139,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2025-08-12": 35,
       "2026-05-06": 1257,
@@ -469,7 +469,7 @@
       "2026-07-11": 1440,
       "2026-07-13": 1238,
       "2026-07-14": 1269,
-      "2026-07-15": 511
+      "2026-07-15": 512
     }
   },
   {
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2026-07-15": 793,
+      "2026-07-15": 903,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
