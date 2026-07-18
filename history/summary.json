@@ -36,16 +36,16 @@
     "url": "https://vkitae.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
-    "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "95.70%",
-    "time": 3090,
-    "timeDay": 1852,
-    "timeWeek": 2465,
-    "timeMonth": 2731,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "95.69%",
+    "time": 3091,
+    "timeDay": 2289,
+    "timeWeek": 2535,
+    "timeMonth": 2742,
     "timeYear": 3077,
     "dailyMinutesDown": {
       "2026-05-08": 242,
@@ -91,7 +91,7 @@
       "2026-07-06": 68,
       "2026-07-07": 114,
       "2026-07-17": 71,
-      "2026-07-18": 6
+      "2026-07-18": 55
     }
   },
   {
@@ -99,17 +99,17 @@
     "url": "https://petsmart.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
-    "status": "down",
+    "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "95.60%",
-    "time": 3457,
-    "timeDay": 5078,
-    "timeWeek": 5228,
-    "timeMonth": 4919,
-    "timeYear": 3598,
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "95.59%",
+    "time": 3459,
+    "timeDay": 5424,
+    "timeWeek": 5282,
+    "timeMonth": 4938,
+    "timeYear": 3599,
     "dailyMinutesDown": {
       "2026-05-08": 64,
       "2026-05-09": 337,
@@ -157,7 +157,7 @@
       "2026-07-08": 102,
       "2026-07-12": 89,
       "2026-07-16": 87,
-      "2026-07-18": 1
+      "2026-07-18": 50
     }
   },
   {
@@ -170,7 +170,7 @@
     "uptimeDay": "7.93%",
     "uptimeWeek": "12.93%",
     "uptimeMonth": "6.91%",
-    "uptimeYear": "20.52%",
+    "uptimeYear": "20.51%",
     "time": 611,
     "timeDay": 122,
     "timeWeek": 187,
@@ -475,7 +475,7 @@
       "2026-07-15": 976,
       "2026-07-17": 1248,
       "2026-07-16": 1440,
-      "2026-07-18": 983
+      "2026-07-18": 1033
     }
   },
   {
@@ -632,7 +632,7 @@
     "timeMonth": 0,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2026-07-18": 1042,
+      "2026-07-18": 1092,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
