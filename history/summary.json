@@ -165,16 +165,16 @@
     "url": "https://www.mechta.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
-    "status": "up",
-    "uptime": "76.88%",
-    "uptimeDay": "4.19%",
-    "uptimeWeek": "12.94%",
-    "uptimeMonth": "6.91%",
+    "status": "down",
+    "uptime": "76.89%",
+    "uptimeDay": "10.62%",
+    "uptimeWeek": "13.27%",
+    "uptimeMonth": "7.12%",
     "uptimeYear": "20.34%",
-    "time": 609,
-    "timeDay": 143,
-    "timeWeek": 188,
-    "timeMonth": 139,
+    "time": 608,
+    "timeDay": 120,
+    "timeWeek": 160,
+    "timeMonth": 138,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-08-12": 35,
@@ -476,7 +476,7 @@
       "2026-07-17": 1248,
       "2026-07-16": 1440,
       "2026-07-18": 1381,
-      "2026-07-19": 522
+      "2026-07-19": 523
     }
   },
   {
@@ -633,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2026-07-19": 523,
+      "2026-07-19": 617,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
