@@ -37,11 +37,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vkitae.kz.ico",
     "slug": "vkitae-kz",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.68%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "95.44%",
+    "uptimeWeek": "81.87%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "95.40%",
     "time": 3088,
     "timeDay": 2622,
     "timeWeek": 2664,
@@ -92,7 +92,7 @@
       "2026-07-07": 114,
       "2026-07-17": 71,
       "2026-07-18": 55,
-      "2026-07-21": 84,
+      "2026-07-21": 267,
       "2026-07-20": 1435
     }
   },
@@ -167,16 +167,16 @@
     "url": "https://www.mechta.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
-    "status": "down",
-    "uptime": "76.83%",
-    "uptimeDay": "26.26%",
-    "uptimeWeek": "13.47%",
+    "status": "up",
+    "uptime": "76.82%",
+    "uptimeDay": "26.36%",
+    "uptimeWeek": "13.49%",
     "uptimeMonth": "7.99%",
-    "uptimeYear": "19.97%",
+    "uptimeYear": "19.93%",
     "time": 597,
-    "timeDay": 146,
-    "timeWeek": 160,
-    "timeMonth": 140,
+    "timeDay": 158,
+    "timeWeek": 163,
+    "timeMonth": 141,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-08-12": 35,
@@ -480,7 +480,7 @@
       "2026-07-18": 1381,
       "2026-07-19": 1346,
       "2026-07-20": 1061,
-      "2026-07-21": 84
+      "2026-07-21": 266
     }
   },
   {
@@ -636,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2026-07-21": 84,
+      "2026-07-21": 267,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
