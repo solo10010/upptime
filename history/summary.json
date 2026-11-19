@@ -14,7 +14,7 @@
     "timeDay": 4690,
     "timeWeek": 3219,
     "timeMonth": 2847,
-    "timeYear": 3371,
+    "timeYear": 3372,
     "dailyMinutesDown": {
       "2026-02-18": 43,
       "2026-02-27": 43,
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/petsmart.kz.ico",
     "slug": "petsmart-kz",
     "status": "down",
-    "uptime": "92.01%",
+    "uptime": "92.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.40%",
+    "uptimeYear": "65.33%",
     "time": 3665,
     "timeDay": 0,
     "timeWeek": 0,
@@ -184,7 +184,8 @@
       "2026-07-12": 89,
       "2026-07-16": 87,
       "2026-07-18": 50,
-      "2026-11-18": 1099,
+      "2026-11-19": 26,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -303,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mechta.kz.ico",
     "slug": "mechta-kz",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -482,7 +483,6 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
       "2026-05-07": 1395,
       "2026-05-08": 1048,
       "2026-05-09": 1329,
@@ -560,7 +560,8 @@
       "2026-07-20": 1061,
       "2026-07-21": 1075,
       "2026-07-22": 1176,
-      "2026-11-18": 1099,
+      "2026-11-19": 26,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -686,16 +687,16 @@
     "url": "https://svet.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/svet.kz.ico",
     "slug": "svet-kz",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.40%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "74.47%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.33%",
     "time": 2588,
-    "timeDay": 2156,
-    "timeWeek": 1920,
-    "timeMonth": 2079,
+    "timeDay": 2145,
+    "timeWeek": 1946,
+    "timeMonth": 2080,
     "timeYear": 2822,
     "dailyMinutesDown": {
       "2025-12-17": 31,
@@ -727,7 +728,8 @@
       "2026-10-07": 2,
       "2026-10-25": 44,
       "2026-10-26": 341,
-      "2026-11-18": 2
+      "2026-11-19": 25,
+      "2026-11-18": 343
     }
   },
   {
@@ -745,7 +747,7 @@
     "timeDay": 2494,
     "timeWeek": 2874,
     "timeMonth": 3081,
-    "timeYear": 4465,
+    "timeYear": 4464,
     "dailyMinutesDown": {
       "2025-11-20": 17,
       "2026-01-22": 24,
@@ -770,7 +772,7 @@
     "timeDay": 892,
     "timeWeek": 1046,
     "timeMonth": 1307,
-    "timeYear": 1113,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-02-05": 54
     }
@@ -804,7 +806,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa-academy.kz.ico",
     "slug": "qa-academy-kz",
     "status": "down",
-    "uptime": "25.78%",
+    "uptime": "25.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -815,7 +817,8 @@
     "timeMonth": 0,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2026-11-18": 1100,
+      "2026-11-19": 26,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -1178,8 +1181,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   }
 ]
